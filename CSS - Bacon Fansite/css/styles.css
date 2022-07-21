@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    font-size: 10vw;
+    color:red;
+}
+
+ img:hover{
+    background-color: gold;
+
+} 
+
+.bacon{
+    background-color: green;
+}
+
+.circular{
+    border-radius: 100%;
+}
+
+#heading{
+    color: blue;
+    font-weight: bold;
+}
+
+.head{
+    color: aqua;
+}
